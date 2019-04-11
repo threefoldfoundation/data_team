@@ -3,7 +3,7 @@
 In this repository we keep all public info regarding the various teams in the ThreeFold Movement and FreeFlow Nation.
 Every person in our organisation can add himself to this repository following the 6 steps below.
 
-1. Create a new folder in the [team directory](https://github.com/threefoldfoundation/data_team/tree/master/team) the directory needs to feature the full name of the team member using '_' for spaces e.g. kristof_de_spiegeleer, owen_kemp,  etc.
+1. Create a new folder in the [team directory](https://github.com/threefoldfoundation/data_team/tree/master/team). The directory needs to feature the full name of the team member using '_' for spaces e.g. kristof_de_spiegeleer, owen_kemp,  etc.
 2. Copy the contents of [publicinfo-template.toml](https://github.com/threefoldfoundation/data_team/blob/master/publicinfo-template.toml). 
 3. Create a new file called 'publicinfo.toml' and paste in the contents of the template file.
 4. Fill in the data in the toml file according to your situation.
