@@ -16,6 +16,9 @@ Every person in our organisation can add himself to this repository following th
 ### Full Name
 Please sepecify your full name. Spaces are allowed here as this is the data that will show up in websites.
 
+### Description
+A short description of you and your role within the Movement.
+
 ### Why Threefold
 Write down a short reasoning to why you joined the ThreeFold Movement. This can and is recommended to be authentic and personal.
 
