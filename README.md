@@ -27,7 +27,7 @@ Your day to day function e.g. Engineer, Business Developer, Promotion Member, et
 
 
 ### Rank
-Can be used to order the listing of team memebrs in certain cases.
+Optional field that can be used to order the listing of team memebrs in certain cases.
 
 ## IDs
 In the TOML file you will be asked to provide certain ids.
