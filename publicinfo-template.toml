@@ -1,6 +1,6 @@
-full name = ['']
-description = ['']
-why threefold = ['']
-function = ['']
-project id(s) = ['']  
-contribution id = ['']
+full_name = ""
+description = ""
+why_threefold = ""
+function = ""
+project_ids = []
+contribution_ids = []
