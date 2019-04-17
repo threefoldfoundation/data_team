@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Jo de Boeck"
+description = "Jo has over 10 years of experience in CloudComputing software. After getting his Bachelor degree in ICT he joined Kristof and his team. Currently Jo is working as a development teamleader working on OpenvCloud [https://github.com/0-complexity/home] and Zero-OS [https://github.com/zero-os/home]. In his free time he likes to watch movies, series and keep in touch with technology."
 why_threefold = ""
-function = ""
+function = "Engineer"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,8]
+contribution_ids = [3,3]
+nationality = "Belgian"

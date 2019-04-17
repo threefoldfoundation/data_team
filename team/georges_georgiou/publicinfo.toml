@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Georges Georgiou"
+description = "Georges has over 25+ years hands-on experience across multiple industries and fields and in even more geographies including the USA, UK, Cyprus the Middle East and Japan. Always focused on the people - providing for the best possible enviroments to succeed and to get everyone fully vested in the projects, and delivering the tools needed for growth. Georges has a proven record to think outside of the box having education and experience in many industries and fields from established muiltle billion dollar contruction projects to start-up IT companies and from Finance to Operations. Life is a journey game play it with compassion and have no regrets"
 why_threefold = ""
-function = ""
+function = "Co-Founder"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,5,13,14]
+contribution_ids = [1,1,3,3]
+nationality = "Greek - British"

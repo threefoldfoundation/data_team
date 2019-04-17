@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Ramez Saeed"
+description = "Ramez has about 10 years of experience in CloudComputing software. He joined Kristof and his team on 2008, Started in Q-layer, Amplidata, GiG and currently TFtech. Currently Ramez is working as a quality control and operations teamleader."
 why_threefold = ""
-function = ""
+function = "Engineer"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,8]
+contribution_ids = [3,3]
+nationality = "Egyptian"

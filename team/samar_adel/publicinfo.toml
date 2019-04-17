@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Samar Adel"
+description = "Samar has over 3 years of practical experience in designing, implementing software, including web and mobile UI development, API design and she is passionate about everything Javascript, Designing pages as well. she loves exploring new libraries."
 why_threefold = ""
-function = ""
+function = "UI Developer"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,8]
+contribution_ids = [3,3,]
+nationality = "Egyptian"

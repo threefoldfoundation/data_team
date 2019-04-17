@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Jan de Landtsheer"
+description = "Head of Research & Development"
 why_threefold = ""
-function = ""
+function = "Head of Research & Development"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,2]
+contribution_ids = [1,3]
+nationality = "Belgian"
