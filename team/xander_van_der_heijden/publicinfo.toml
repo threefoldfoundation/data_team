@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
-why_threefold = ""
+full_name = "Xander van der Heijden"
+description = "Xander is a serial entrepreneur and venture mentor. He started his first software development / Internet company – Beeyond, back in 1995, where he created and patented InterLingua™ - a pioneering cloud technology in the areas of electronic data communications, database organized, flexible format electronic data message management, client-server and distributed software applications. Currently, Xander is founder and CEO of 2SQRS – a research, development and investment company that grows human-tech concepts to global ventures. He is also a co-founder of Web3 Ventures – an incubator for decentralized autonomous services that enables entrepreneurs and developers in bringing infrastructural innovation to the growing blockchain community."
+why_threefold = "I strongly believe in decentralized infrastructure as the foundation for creating the real Web 3.0 Internet. Empowering us to handle the increasing amounts of data traffic and to respond to the growing need for internet capacity, Blockchain and edge computing are providing the tools and ThreeFold is how we get to the Web 3.0 world! Contributing to a better place for everybody."
 function = "Ambassador"
 rank = 0
 project_ids = [1]
 contribution_ids = [2]
-nationality = " "
+nationality = "Dutch"

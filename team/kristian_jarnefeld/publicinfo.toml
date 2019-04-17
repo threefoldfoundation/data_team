@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
-why_threefold = ""
+full_name = "Kristian Järnefeld"
+description = "Kristian Järnefelt is the Executive Vice President of Consumer security of F-Secure Corporation. He has been a member of the Leadership Team since February 2016, when he joined F-Secure. Prior to joining the Company, Mr. Järnefelt worked for Fujitsu Finland Oy as Sales Director (2014-2015). Previously he has also worked as CEO and partner at Miradore Oy (2010-2014), CEO and partner at Concilio Networks Oy (2006-2009) and in several senior leadership roles at Hewlett Packard (1994-2006). He holds a Master's Degree in Economics and Business Administration."
+why_threefold = "The internet has turned into a centralized mainframe like phenomena dominated by a few global giants and ThreeFold Foundation’s grid-like distributed & eco-friendly internet is taking it back to its roots providing an alternative. Using this infrastructure to back-up the new Coin Offering brings also a solid alternative to the speculative virtual currencies making it also more tangible."
 function = "Ambassador"
 rank = 0
 project_ids = [1]
 contribution_ids = [2]
-nationality = " "
+nationality = "Finnish"

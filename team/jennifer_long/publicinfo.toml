@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
-why_threefold = ""
+full_name = "Jennifer Long"
+description = "I believe in this endeavor of the ThreeFold Foundation because it equates to actually being the 'people's internet' in that it is distributed around the world to share with the population of the planet where we decide who and what can access our information. Additionally, I believe this will be a catalyst for countries lacking in internet capability to motivate those countries to upgrade their IT so that they can utilize this system on ThreeFold to generate income for the country as well as to spread the opportunity to individuals in those same countries to use a node, cluster or even join cooperative farming efforts."
+why_threefold = "I believe in this endeavor of the ThreeFold Foundation because it equates to actually being the 'people's internet' in that it is distributed around the world to share with the population of the planet where we decide who and what can access our information. Additionally, I believe this will be a catalyst for countries lacking in internet capability to motivate those countries to upgrade their IT so that they can utilize this system on ThreeFold to generate income for the country as well as to spread the opportunity to individuals in those same countries to use a node, cluster or even join cooperative farming efforts."
 function = "Ambassador"
 rank = 0
-project_ids = [1]
-contribution_ids = [2]
-nationality = " "
+project_ids = [1,15]
+contribution_ids = [2,1]
+nationality = "American"
