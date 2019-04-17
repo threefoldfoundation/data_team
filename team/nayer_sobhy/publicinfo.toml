@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Nayer Sobhy"
+description = "Nayer is a passionate about people’s development, and that we can be the change we want to see. After his B.Sc. in Business Management from Cairo University in Egypt, he got a postgraduate degree in Human resources management from The American University in Cairo, Egypt. Currently he is part of Threefold's family, managing cairo's office since June 2014"
 why_threefold = ""
-function = ""
+function = "Co-Founder"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,8]
+contribution_ids = [1,3]
+nationality = "Egyptian"

@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Isabelle Peeters"
+description = "Isabelle is a fun-loving person, besides being an advit evangelist of the ThreeFold Movement she is the owner of the Veda boats and hosts retreats on the beautiful river Nile. Everything Isabella does comes from the heart with an enormous amount of passion. Her dreams is to help people grow in awareness, and make the world a more colorful and peaceful place by doing so."
 why_threefold = ""
-function = ""
+function = "Co-Founder"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,10]
+contribution_ids = [1,1]
+nationality = "Belgian"

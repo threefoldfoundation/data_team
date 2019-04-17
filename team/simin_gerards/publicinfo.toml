@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Simin Gerards"
+description = "Simin’s career spans over 23 years in the in the finance sector, working closely with institutional investors in Turkey and globally, specializing on the capital markets business, trading and exchanges. She has taken place in several primary and secondary offerings and placements, organized roadshows and investor conferences and events, and have built, led and supervised sales and research teams at executive positions during her career. Most recently, she has been the CEO of Erste Securities in İstanbul. She is inspired by form and harmony, and finds great outlet in sculpting and designing metal artifacts."
 why_threefold = ""
-function = ""
+function = "Co-Founder"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,2]
+contribution_ids = [1,3]
+nationality = "Turkish"
