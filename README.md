@@ -1,17 +1,9 @@
 # data_team
 
 In this repository we keep all public info regarding the various teams in the ThreeFold Movement and FreeFlow Nation.
-Every person in our organisation can add himself to this repository following the 6 steps below.
+Every person in our organisation can add himself to this repository.
 
-1. Create a new folder in the [team directory](https://github.com/threefoldfoundation/data_team/tree/master/team). The directory needs to feature the full name of the team member using '_' for spaces e.g. kristof_de_spiegeleer, owen_kemp,  etc.
-2. Copy the contents of [publicinfo-template.toml](https://github.com/threefoldfoundation/data_team/blob/master/publicinfo-template.toml). 
-3. Create a new file called 'publicinfo.toml' and paste in the contents of the template file.
-4. Fill in the data in the toml file according to your situation.
-5. Upload a picture you are ok with to share on our various websites.
-6. When your data and picture is added please create an issue in the repo to "clean up" your picture if this is not yet done. So we can remove the background and all have the similar looking pictures.
-
-
-## TOML file
+## the .TOML files
 
 ### Full Name
 Please sepecify your full name. Spaces are allowed here as this is the data that will show up in websites.
@@ -23,11 +15,11 @@ A short description of you and your role within the Movement.
 Write down a short reasoning to why you joined the ThreeFold Movement. This can and is recommended to be authentic and personal.
 
 ### Function
-Your day to day function e.g. Engineer, Business Developer, Promotion Member, etc.
+Your day to day function e.g. Founder, Co-Founder,Engineer, Business Developer, Promotion Member, etc.
 
 
 ### Rank
-Optional field that can be used to order the listing of team memebrs in certain cases, value should be a positive integer (zero is ignored).
+Optional field that can be used to order the listing of team memebrs in certain cases, value should be a positive integer (zero is ignored). Please do not change these yourself. 
 
 ## IDs
 In the TOML file you will be asked to provide certain ids.
@@ -61,3 +53,7 @@ If more IDs apply please comma separate them but add all that are applicable.
 3. Contributor
 4. Supporter
 5. Advisor
+
+### Picture
+Each folder should have a processed profile picture, our team can edit these for you if you do not yet have a processed picture.
+
