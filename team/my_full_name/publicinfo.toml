@@ -1,8 +1,8 @@
-full_name = "Your full name"
-description = "The description you would like to feature about your self"
-why_threefold = "The reason you believe in the TF Movement Mission"
-function = "the nature of your job"
+full_name = "Tony Stark"
+description = "I fly around and save the world all day long."
+why_threefold = "ThreeFold foundation is awesome"
+function = "founder"
 rank = 0
-project_ids = [insert project ids comma separated]
-contribution_ids = [add contribution_ids linked to each project]
-nationality = "Your nationality"
+project_ids = [1,3,5]
+contribution_ids = [1,2,2]
+nationality = "Belgian"
