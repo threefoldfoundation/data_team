@@ -1,8 +1,0 @@
-full_name = "Tony Stark"
-description = "I fly around and save the world all day long."
-why_threefold = "ThreeFold foundation is awesome"
-function = "founder"
-rank = 0
-project_ids = [1,3,5]
-contribution_ids = [1,2,2]
-nationality = "Belgian"
