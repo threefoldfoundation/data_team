@@ -4,5 +4,5 @@ why_threefold = "When water does not flow it gets foul. Other resources are for 
 function = "R&D Manager and HR"
 rank = 0
 project_ids = [1, 2, 3]
-contribution_ids = [2]
+contribution_ids = [2, 2, 2]
 nationality = "World citizen, Colombian/Spanish living in Belgium"
