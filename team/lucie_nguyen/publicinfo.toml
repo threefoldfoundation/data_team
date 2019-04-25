@@ -5,6 +5,6 @@ Passionate about new technologies, especially how this can be used to solve cust
 why_threefold = ""
 function = "Co-Founder"
 rank = 0
-project_ids = [ThreeFold Foundation, ThreeFold Tech, Honest Homes, Incubaid]
-contribution_ids = [Founder]
+project_ids = [1,2]
+contribution_ids = [1,1]
 nationality = "French"
