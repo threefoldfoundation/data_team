@@ -1,8 +1,13 @@
-full_name = ""
-description = ""
+full_name = "kristof de spiegeleer"
+description = "Kristof is a humanist & motivated entrepreneur, passionate to help make the world a better place.
+He likes to develop and invent infrastructure IT systems (storage, automation, cloud computing).
+Kristof has founded more than 10 companies from which 6 have been acquired by large IT players.
+He was lucky to be part of the first teams building the Internet and has helped to grow datacenters & ISPs mainly in Europe.
+Currently Kristof is CEO of the ThreeFold Foundation.
+Kristof strongly believes there is need for a neutral internet owned by millions."
 why_threefold = ""
-function = ""
+function = "Co-Founder"
 rank = 0
-project_ids = []
-contribution_ids = []
+project_ids = [1,3,5,12,13,14,16]
+contribution_ids = [1,3]
 nationality = " "
