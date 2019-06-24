@@ -4,5 +4,5 @@ why_threefold = ""
 function = "Digital Marketeer"
 rank = 10
 project_ids = [1,2,4]
-contribution_ids = [1,2,2]
+contribution_ids = [1,1,1]
 nationality = "Dutch"
