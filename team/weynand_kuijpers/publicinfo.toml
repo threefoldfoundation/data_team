@@ -1,8 +1,8 @@
-full_name = "Abdelrahman Ghanem"
-description = ""
+full_name = "Weynand Kuijpers"
+description = "A Master degree in space technology Weynand experienced that fundamental research and advances in space technology were not quick enough, therefore, he shifted to slingshotting internet technologies in customer centric orbits. He was involved in the early 90's in the first large scale data centers that were being built in Europe to deliver Managed Services over the Internet. Since then he worked in executive roles in large American and Japanese telecom operators. As VP of Operations and later VP Marketing and Sales Strategy sold and delivered one of the largest sport ePortals in the world, uefa.com. Worked as a consultant for uefa to restructure their IT department and helped them to deliver a safe and successfull EURO tournament in Ukraine and Poland in 2012. As a person he is a social thinker that inspires people and organizations to do things different, aspire to their full potential, develop unique strengths, grow personal influence, liberate collective intelligence and achieve personal and business goals. The only constant is change."
 why_threefold = ""
-function = "Software Engineer"
-rank = 4
-project_ids = []
-contribution_ids = []
+function = "co-founder"
+rank = 5
+project_ids = [1]
+contribution_ids = [1]
 nationality = " "
