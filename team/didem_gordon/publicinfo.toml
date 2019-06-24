@@ -4,5 +4,5 @@ why_threefold = ""
 function = "Business Developer"
 rank = 13
 project_ids = [1,2]
-contribution_ids = [1,3]
+contribution_ids = [1,2]
 nationality = "Turkish"
