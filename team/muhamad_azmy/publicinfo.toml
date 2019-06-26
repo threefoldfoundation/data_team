@@ -1,8 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Muhamad Azmy"
+description = "A highly driven IT professional, and a perfection seeker."
 why_threefold = ""
 function = ""
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [1,8]
+contribution_ids = [6,3]
+nationality = "Egyptian"

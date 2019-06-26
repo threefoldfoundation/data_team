@@ -4,5 +4,5 @@ why_threefold = ""
 function = "Engineer"
 rank = 0
 project_ids = [1,8]
-contribution_ids = [3,3,]
+contribution_ids = [6,3,]
 nationality = "Egyptian"
