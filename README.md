@@ -53,6 +53,7 @@ If more IDs apply please comma separate them but add all that are applicable.
 3. Contributor
 4. Supporter
 5. Advisor
+6. Tech Team
 
 ### Picture
 Each folder should have a processed profile picture, our team can edit these for you if you do not yet have a processed picture.
