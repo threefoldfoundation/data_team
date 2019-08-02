@@ -9,5 +9,5 @@ why_threefold = ""
 function = "Co-Founder"
 rank = 1
 project_ids = [1,2,3]
-contribution_ids = [1,2,3]
+contribution_ids = [1,1]
 nationality = " "
