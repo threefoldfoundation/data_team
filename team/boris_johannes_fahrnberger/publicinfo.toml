@@ -1,8 +1,8 @@
-full_name = "Your full name"
-description = "The description you would like to feature about your self"
-why_threefold = "The reason you believe in the TF Movement Mission"
-function = "the nature of your job"
+full_name = "Boris Fahrnberger"
+description = "I am a sales and management trainer and a business development consultant. My aim is to help my customers grow and strenghten their relationships."
+why_threefold = "I got acquainted to the idea of ThreeFold and got stunned by the vision, the potential and by the holistic approach of the whole thing. ThreeFold is the way to get the internet back to what it was or what it always wanted to be without losing the economic power. It's how the world in general works and should work: a global web of de-centralized, regional nods and clusters enhancing power and reducing vulnerability."
+function = "Ambassador"
 rank = 0
-project_ids = [0]
-contribution_ids = [0]
-nationality = "Your nationality"
+project_ids = [1]
+contribution_ids = [2]
+nationality = "Austrian
