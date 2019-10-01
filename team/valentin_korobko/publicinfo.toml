@@ -1,8 +1,8 @@
-full_name = "Your full name"
-description = "The description you would like to feature about your self"
-why_threefold = "The reason you believe in the TF Movement Mission"
-function = "the nature of your job"
+full_name = "Velentin Korobko"
+description = "I am an engineer and a marketer with 10 years of experience in advertising and sales. I also worked in the financial sector, was recognized as the best specialist for managing finances of private individuals in Ukraine in 2011. I like to develop and constantly set for myself ambitious goals that are good for society. For over 4 years I have been studying the blockchain technology and cryptocurrency. I like teamwork, especially when the team reaches the top and the intended goals. I`m a communicable, fair and happy person."
+why_threefold = "I believe in ThreeFold technology. And I am convinced that the world needs a new democratized Internet that will protect the personal confidentiality, neutrality and security of everyone in this world. From 2016 I observe how the team is on the way of implementing their plans and goals. And I`m looking forward to working with all of you!"
+function = "Ambassador"
 rank = 0
-project_ids = [0]
-contribution_ids = [0]
-nationality = "Your nationality"
+project_ids = [1]
+contribution_ids = [2]
+nationality = "Ukranian"
