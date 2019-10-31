@@ -1,1 +1,14 @@
-
+full_name = "Ronald de Bruijn"
+description = """I am tech-savy, an entrepeneur since 2005 with several start-ups in the past subsequentially started. 
+Furthermore I like dynamic environments due to my own nature and have excellent negotiating 
+and sales skills. Able to build solid teams and display and execute my vision."""
+why_threefold = """I have been globally involved with clients in the agricultural realm and have worked with several up and coming ventures in the field. 
+I will be happy to connect companies that can be a valuable 
+asset for Threefold, also via my expertise in Agrisim. My shared enthusiasm as well as concern 
+about where the world and its ""crookedness"" is evolving towards, due to humanity, 
+give me the motivation to help Threefold spread in a new world."""
+function = "ThreeFold Foundation"
+rank = 0
+project_ids = [1]
+contribution_ids = [2]
+nationality = "Dutch"
