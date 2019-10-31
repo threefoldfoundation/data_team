@@ -1,1 +1,10 @@
-
+full_name = "Manish Kumar"
+description = """ I am the Founder & Technical Architect at MobiProbe. We provide system performance and 
+engagement measurement tools for Software Systems, Applications and Connected devices."""
+why_threefold = """I see great potential in ThreeFold technology and believe it can be an agent of positive impact in our society. 
+I would like to devote my time and resources for evangelism, adoption and promulgation of ThreeFold technology. """
+function = "ThreeFold Foundation"
+rank = 0
+project_ids = [1]
+contribution_ids = [2]
+nationality = "Indian"
