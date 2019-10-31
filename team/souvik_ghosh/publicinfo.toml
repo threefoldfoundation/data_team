@@ -1,8 +1,8 @@
 full_name = "Souvik Ghosh"
-description = ""I have been working in the financial industry mainly IT as engineer, architect and more recently 
+description = """I have been working in the financial industry mainly IT as engineer, architect and more recently 
 as AI/ML engineer. I am passionate about technology and along with my day-job, i am also working 
-as a freelance ML specialist under the name strai.be ""
-why_threefold = ""The technology behind threefold is convicing and 
+as a freelance ML specialist under the name strai.be """
+why_threefold = """The technology behind threefold is convicing and 
 the mission to build more user-centric internet. 
 Most importantly, I am originally from India and i 
 understand fully why access to free internet is a 
@@ -14,7 +14,7 @@ of such a mission. My contributions will be mostly
 working on Natural Language Processing for past 
 2 years dedicated a good amount of my time 
 building open-source products. My contribution for 
-the moment will be focussed around 3bot.""
+the moment will be focussed around 3bot."""
 function = "ThreeFold Foundation"
 rank = 0
 project_ids = [1]
