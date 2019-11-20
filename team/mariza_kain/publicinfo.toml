@@ -1,8 +1,8 @@
-full_name = ""
+full_name = "Mariza Kain"
 description = ""
 why_threefold = ""
 function = "Ambassador"
 rank = 0
-project_ids = []
-contribution_ids = []
+project_ids = [1]
+contribution_ids = [2]
 nationality = " "
