@@ -1,8 +1,8 @@
 full_name = "Lucie Nguyen"
-description = """ International sales executive with more than 12 years experience managing large corporate accounts across Europe and having lived in France, Belgium and the UK. Lucie has in-depth knowledge and understanding of the global telecommunications industry.
+description = """ Global Account alliances with more than 12 years experience managing large corporate accounts across Europe and having lived in France, Belgium and the UK. Lucie has in-depth knowledge and understanding of the global telecommunications industry.
 Passionate about new technologies, especially how this can be used to solve customers’ pain points, Lucie has an excellent track record for developing new business opportunities and building excellent working relationships at all levels within large multinational corporations.
 """
-why_threefold = ""
+why_threefold = "1) People (team and community) passionate about making Internet accessible to all that is green and autonomous and taking back control of their own data 2) Vision to build the biggest peer to peer compute and storage network built and owned by everyone and a digital self where each individual is in control of their personal data 3) Innovation that makes all of the above happen"
 function = "Co-Founder"
 rank = 23
 project_ids = [1,2]
