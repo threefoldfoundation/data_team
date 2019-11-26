@@ -1,7 +1,7 @@
 full_name = "John Kheir"
-description = "John has started his carrer working for GIG, He has now about 3 years of experience in Cloud Computing software. Currently John is working as a Automation Software Testing Engineer for TFtech, working on writinig automation testsuites for all the project components."
-why_threefold = ""
-function = ""
+description = "John is a passionate Engineer who loves leaning new stuff. Currently he is working as a Senior Software Engineer in Test for TFtech, mainly testing most of the project components."
+why_threefold = "I love what Threefold is doing to give the internet back to the people, enabling those who do not have internet access by providing them with free, easily—accessible internet"
+function = "Engineer"
 rank = 0
 project_ids = [1,8]
 contribution_ids = [6,6]
