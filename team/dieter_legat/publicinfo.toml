@@ -1,7 +1,7 @@
-"full_name = ""Dieter Legat""
-description = ""More than 50 years experience as business manager in I.T. (AEG-Telefunken, Honeywell, Hewlett-Packard) and top management consultant - with special expertise in operational business leadership""
+full_name = "Dieter Legat"
+description = """More than 50 years experience as business manager in I.T. (AEG-Telefunken, Honeywell, Hewlett-Packard) and top management consultant - with special expertise in operational business leadership"""
 why_threefold = ""
-function = ""Coach in operational management""
+function = "Coach in operational management"
 rank = 0
 project_ids = [1,2]
 contribution_ids = [1, 5]
