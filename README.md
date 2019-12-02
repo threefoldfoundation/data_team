@@ -58,3 +58,4 @@ If more IDs apply please comma separate them but add all that are applicable.
 ### Picture
 Each folder should have a processed profile picture, our team can edit these for you if you do not yet have a processed picture.
 
+P.S Anyone with ID "-1" will be hidden.
