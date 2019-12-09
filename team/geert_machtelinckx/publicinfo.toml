@@ -4,5 +4,5 @@ why_threefold = "With digitisation and blockchain, the world is changing. I beli
 function = "Project Coordination"
 rank = 0
 project_ids = [1]
-contribution_ids = [2]
+contribution_ids = [1]
 nationality = "Belgian"
