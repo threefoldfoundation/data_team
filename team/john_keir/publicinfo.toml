@@ -2,6 +2,7 @@ full_name = "John Kheir"
 description = "John is a passionate Engineer who loves leaning new stuff. Currently he is working as a Senior Software Engineer in Test for TFtech, mainly testing most of the project components."
 why_threefold = "I love what Threefold is doing to give the internet back to the people, enabling those who do not have internet access by providing them with free, easily—accessible internet"
 function = "Engineer"
+linkedin= ""
 rank = 0
 project_ids = [1,8]
 contribution_ids = [6,6]

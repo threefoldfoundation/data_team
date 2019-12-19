@@ -2,6 +2,7 @@ full_name = "Peter Nashaat"
 description = "Passionate DevOps Engineer"
 why_threefold = "I believe that Threefold will change how to world works, and i want to be part of that, we are building the future"
 function = "Engineer"
+linkedin= ""
 rank = 0
 project_ids = [1,8]
 contribution_ids = [6,6]
