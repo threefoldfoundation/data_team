@@ -1,1 +1,0 @@
-This is where we temporary store unprocessed pictures for our team to process them and add them to the right folder the team folder.
