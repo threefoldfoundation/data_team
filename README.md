@@ -17,6 +17,8 @@ Write down a short reasoning to why you joined the ThreeFold Movement. This can 
 ### Function
 Your day to day function e.g. Founder, Co-Founder,Engineer, Business Developer, Promotion Member, etc.
 
+### LinkedIn
+Your full LinkedIn profile URL
 
 ### Rank
 Optional field that can be used to order the listing of team memebrs in certain cases, value should be a positive integer (zero is ignored). Please do not change these yourself. 
