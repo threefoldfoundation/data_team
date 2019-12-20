@@ -10,7 +10,7 @@ Peter is the Chairman of the Expert Council at the Chamber of Commerce & Industr
 """
 why_threefold = """Threefold is a wonderful Ecosystem based on cutting edge & disruptive information technology, bringing together amazing people and offering a range of great business models, as well as incredible social impact opportunities, hopefully allowing us to contribute to making this a better world for generations to come"""
 function = "Business Development"
-linkedin= ""
+linkedin= "https://www.linkedin.com/in/richterpeter/"
 rank = 0
 project_ids = [1,2]
 contribution_ids = [1,3]

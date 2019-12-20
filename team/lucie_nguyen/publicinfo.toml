@@ -4,7 +4,7 @@ Passionate about new technologies, especially how this can be used to solve cust
 """
 why_threefold = "1) People (team and community) passionate about making Internet accessible to all that is green and autonomous and taking back control of their own data 2) Vision to build the biggest peer to peer compute and storage network built and owned by everyone and a digital self where each individual is in control of their personal data 3) Innovation that makes all of the above happen"
 function = "Co-Founder"
-linkedin= ""
+linkedin= "https://www.linkedin.com/in/lucienguyen/"
 rank = 23
 project_ids = [1,2]
 contribution_ids = [1,1]
