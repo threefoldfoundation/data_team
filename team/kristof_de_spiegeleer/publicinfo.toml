@@ -7,7 +7,7 @@ Currently Kristof is CEO of the ThreeFold Foundation.
 Kristof strongly believes there is need for a neutral internet owned by millions."""
 why_threefold = ""
 function = "Co-Founder"
-linkedin= ""
+linkedin= "https://www.linkedin.com/in/despiegk/"
 rank = 1
 project_ids = [1,2,3]
 contribution_ids = [1,1]
