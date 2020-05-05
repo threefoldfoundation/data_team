@@ -5,5 +5,5 @@ function = "Partnerships"
 linkedin= "https://www.linkedin.com/in/kristinevilnite/"
 rank = 0
 project_ids = [1]
-contribution_ids = [3]
+contribution_ids = [1,3]
 nationality = "Latvian"
