@@ -1,8 +1,9 @@
-full_name = ""
-description = ""
-function = ""
-linkedin= ""
+full_name = "Kristine Vilnite"
+description = "Compassionate innovator, founder, advisor, sustainable development advocate. Kristine adds value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm."
+why_threefold = "I strive to see humanity brought back in sync with nature. Where equality, respect and love towards all that is guides every human action. That means first an foremost building a sustainable foundation and I believe ThreeFold is playing a signigicant role in doing exactly that."
+function = "Partnerships"
+linkedin= "https://www.linkedin.com/in/kristinevilnite/"
 rank = 0
-project_ids = []
-contribution_ids = []
-nationality = ""
+project_ids = [1]
+contribution_ids = [1,3]
+nationality = "Latvian"

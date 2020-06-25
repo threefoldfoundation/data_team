@@ -1,0 +1,9 @@
+full_name = "Ahmed Samir"
+description = "Ahmed is a passionate Engineer who loves learning new stuff."
+why_threefold = "I love what Threefold is doing to give the internet back to the people, enabling those who do not have internet access by providing them with free, easily—accessible internet"
+function = "Software Engineer"
+linkedin= ""
+rank = 0
+project_ids = [1,8]
+contribution_ids = [6,6]
+nationality = "Egyptian"
