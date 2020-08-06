@@ -5,5 +5,5 @@ function = "Project Coordination"
 linkedin= "https://www.linkedin.com/in/geert-machtelinckx-a72453b/"
 rank = 0
 project_ids = [1]
-contribution_ids = [1]
+contribution_ids = [6,6]
 nationality = "Belgian"
