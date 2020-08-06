@@ -5,5 +5,5 @@ function = "Legal Advisor"
 linkedin= "https://www.linkedin.com/in/pierre-van-hoorebeke-5958343/"
 rank = 4
 project_ids = [1,2]
-contribution_ids = [1,4]
+contribution_ids = [6,6]
 nationality = "Belgian"
