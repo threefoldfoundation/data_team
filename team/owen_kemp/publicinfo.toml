@@ -5,5 +5,5 @@ function = "Co-Founder"
 linkedin= "https://www.linkedin.com/in/owen-kemp-b6b5a113/"
 rank = 3
 project_ids = [1,2]
-contribution_ids = [1,3]
+contribution_ids = [6,6]
 nationality = "Austrian"
