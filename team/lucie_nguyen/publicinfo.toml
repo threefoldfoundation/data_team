@@ -7,5 +7,5 @@ function = "Ambassador"
 linkedin= "https://www.linkedin.com/in/lucienguyen/"
 rank = 23
 project_ids = [1,2]
-contribution_ids = [1,1]
+contribution_ids = [6,6]
 nationality = " French "
