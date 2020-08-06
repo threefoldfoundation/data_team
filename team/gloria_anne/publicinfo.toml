@@ -4,5 +4,5 @@ why_threefold = "The feeling of contributing to something larger than myself... 
 function = "Admin & Bookkeeping"
 rank = 0
 project_ids = [1,5]
-contribution_ids = [3,3]
+contribution_ids = [1,3]
 nationality = "Filipino"
