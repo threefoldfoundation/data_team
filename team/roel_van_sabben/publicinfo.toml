@@ -5,5 +5,5 @@ function = "Digital Marketeer"
 linkedin= "https://www.linkedin.com/in/roelvansabben/"
 rank = 11
 project_ids = [1,2,4]
-contribution_ids = [1,1,1]
+contribution_ids = [6,6]
 nationality = "Dutch"
