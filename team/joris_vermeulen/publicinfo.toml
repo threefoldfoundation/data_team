@@ -5,5 +5,5 @@ function = "Advisor"
 linkedin= "https://www.linkedin.com/in/jorisvermeulen/"
 rank = 18
 project_ids = [1,2,4]
-contribution_ids = [1,4,4]
+contribution_ids = [6,6]
 nationality = "Belgian"
