@@ -5,5 +5,5 @@ function = "Co-Founder"
 linkedin= "https://www.linkedin.com/in/andreas-hartl-4330b8b/"
 rank = 6
 project_ids = [1]
-contribution_ids = [1]
+contribution_ids = [6,6]
 nationality = "German"
