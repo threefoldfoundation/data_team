@@ -1,9 +1,8 @@
-full_name = ""
-description = ""
+full_name = "Ivan Coene"
+description = "Front-end developer at Jimber"
 why_threefold = ""
-function = ""
+function = "Front-end developer"
 linkedin= "https://www.linkedin.com/in/ivancoene/"
-rank = 0
-project_ids = []
-contribution_ids = []
-nationality = " "
+project_ids = [9]
+contribution_ids = [6]
+nationality = "Belgian"
