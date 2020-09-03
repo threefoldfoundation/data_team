@@ -1,0 +1,8 @@
+full_name = "Ken De Moor"
+description = "Quality Assurance Engineer working for Jimber and helping test and organize threefold projects"
+why_threefold = "Because I like to work on new and exciting technologies that could change the world."
+function = "QA Engineer"
+linkedin= "https://www.linkedin.com/in/ken-de-moor-qa/"
+project_ids = [1,2,9,17]
+contribution_ids = [3,4]
+nationality = "Belgian"
