@@ -1,0 +1,8 @@
+full_name = "Jonas Wijne"
+description = "Application Engineer working for Jimber"
+why_threefold = "Because I like to work on new and exciting technologies that could change the world."
+function = "Application Engineer"
+linkedin= "https://www.linkedin.com/in/jonaswijne/"
+project_ids = [1,2,9,17]
+contribution_ids = [3,4,6]
+nationality = "Belgian"
