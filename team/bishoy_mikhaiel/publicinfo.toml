@@ -1,6 +1,6 @@
 full_name = "Bishoy Mikhaiel"
-description = "I am cloud system engineer with 7 years experience on different cloud platforms and virtualization, Worked as an application support on tomcat and MySQL platform and on jumpsacle and postgres, Worked on DCPM racktivity application."
-why_threefold = "The company where i learn how to own your project and manage it, like idea of new internet"
+description = "I am cloud system engineer with 7 years experience on different cloud platforms and virtualization. Worked as an application support on tomcat and MySQL platform and on jumpsacle and postgres, Worked on DCPM racktivity application."
+why_threefold = "The company where I learn how to own my project and manage it, like idea of new internet"
 function = "Engineer"
 linkedin= "https://www.linkedin.com/in/bishoy-michael/"
 rank = 0
@@ -9,4 +9,4 @@ contribution_ids = [6,6]
 nationality = "Egyptian"
 languages = [ "English","Arabic"]
 programing_languages = [ "shell script","Python","Java"] 
-skills = [ "Networking", "Linux", "Cloud Computing", "Windows","virtualization", "problem-solving", "docker", "kubernates","Terraform", "MySQL", "Apache", "Nginx"]
+skills = [ "Networking", "Linux", "Cloud Computing", "Windows","virtualization", "problem-solving", "Docker", "Kubernetes","Terraform", "MySQL", "Apache", "Nginx"]
