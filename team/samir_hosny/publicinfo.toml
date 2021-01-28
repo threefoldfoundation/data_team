@@ -7,3 +7,4 @@ rank = 0
 project_ids = [1,8]
 contribution_ids = [6,6]
 nationality = "Egyptian"
+skills = ["Networking", "Linux", "Cloud Computing", "virtualization", "Docker", "Kubernetes", "Python", "Bash scripting"]
