@@ -7,3 +7,7 @@ rank = 0
 project_ids = [1,8]
 contribution_ids = [6,6]
 nationality = "Egyptian"
+languages = [ "English","Arabic"]
+programing_languages = [ "shell script","Python"]
+skills = [ "Networking", "Linux", "Cloud Computing", "virtualization", "problem-solving", "Agile", "Automation Testing", "Continuous integrations"]
+Joined_Codescalers = "2010"
