@@ -7,3 +7,7 @@ rank = 0
 project_ids = [1,8]
 contribution_ids = [6,6]
 nationality = "Egyptian"
+languages = [ "English","Arabic"]
+programing_languages = [ "Python","Bash"]
+skills = [ "System Administration", "Technical Documentation", "Technical Support", "Network Administration", "Creative Problem Solving", "Virtualization", "CI/CD", "Network architecture", "Git", "Kubernetes Administration", "Docker", "Cloud Computing"]
+Joined_Codescalers = "2014"
